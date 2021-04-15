@@ -1,1 +1,1 @@
-let divide = function(){}
+let divide = function(){2000/100}
