@@ -1,3 +1,3 @@
-let divide = function(x,y){x/y};
+let divide = function(){2000/100};
 let square = x => x * x;
 let add = (x,y) => x + y;
